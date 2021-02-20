@@ -11,7 +11,7 @@ def index():
   return render_template('/index.html')
 
 @app.route('/redirect/')
-def my_link():
+def get_post():
     randompost.get_random_post()
     return render_template('/index.html')
 
