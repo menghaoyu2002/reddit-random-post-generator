@@ -8,7 +8,7 @@ Click the "Ha" button and another tab should open with a random reddit post
 [Reddit](https://www.reddit.com/)
 
 # Subreddits
-Random Posts are chosen from four subreddits. <br>
+Random Posts are chosen from the following four subreddits. <br>
 [r/MakeMeSuffer](https://www.reddit.com/r/MakeMeSuffer/) <br>
 [r/memes](https://www.reddit.com/r/memes/)<br>
 [r/TikTokCringe](https://www.reddit.com/r/TikTokCringe)<br>
