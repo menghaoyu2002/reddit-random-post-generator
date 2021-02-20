@@ -2,6 +2,7 @@ from typing import NoReturn
 from randompost import RandomPost
 from flask import Flask, render_template, redirect
 app = Flask(__name__)
+import webbrowser
 
 randompost = RandomPost()
 
@@ -15,6 +16,7 @@ def my_link():
     return render_template('/index.html')
 
 if __name__ == '__main__':
+    webbrowser.open_new("http://127.0.0.1:5000/")
     app.run(debug=True)
 
 
